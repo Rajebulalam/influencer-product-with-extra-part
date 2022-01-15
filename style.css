@@ -100,6 +100,12 @@ main{
 #banner-area i{
     padding-left: 15px;
 }
+.left-banner{
+    flex-basis: 60%;
+}
+.right-banner{
+    flex-basis: 40%;
+}
 
 /* End Banner Part */
 
